@@ -1,5 +1,5 @@
-#### Roll Number - 20161035
-#### OS Assignment 5
+#### Roll Number - 42
+#### OS practical 7
 
 * Priority Based Scheduler - Priority scheduling involves priority assignment to every process, and processes with higher priorities are carried out first, whereas tasks with equal priorities are carried out on round robin basis.
 
